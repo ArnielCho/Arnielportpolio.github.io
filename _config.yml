@@ -1,3 +1,25 @@
 theme: jekyll-theme-hacker
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://arnielcho.github.io/blog/" # the base hostname & protocol for your site
+
+
+# Site Setting
+locale: "ko-KR" #로케일
+title : "blog_develop_test"
+title_separator : ""
+subtitle : "ver 0.1" 
+name : "A_cho" # 맨 하단 이름
+description : "test 블로그" # Meta 태그에 들어가는 영역 
+url: "https://arnielcho.github.io/" # the base hostname & protocol for your site
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+logo : #로고 그리는중
+masthead_title: "arniel_cho's log"
+
+#Site Author
+author:
+ name : "hyemi_cho" 
+ # avatar : "" #작업끝나면 넣기
+ bio : "jikyill 연습용"
+ location : "Korea, south"
+ email : "chohm0406@gmail.com" #email
+ 
+ 
+ 
